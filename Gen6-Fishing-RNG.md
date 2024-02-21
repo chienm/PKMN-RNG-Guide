@@ -21,7 +21,7 @@ To advance thousands of TinyMT indexes...
 
 ### Introduction
 
-This guide will teach you how to RNG fishing in Pokemon XY and ORAS. For this guide, I will be explaining the steps that should be taken using Pokemon Alpha Saphire on an old 3DS XL as an example.
+This guide will teach you how to RNG fishing in Pokemon XY and ORAS. For this guide, I will be explaining the steps that should be taken using Pokemon Alpha Saphire on an old 3DS XL as an example. The same steps can be taken for Omega Ruby and XY.
 
 ### Things to Keep In Mind
 
@@ -33,7 +33,7 @@ Before you start fishing, here are some tips that should be considered to make y
 
 Choose a Pokemon that you will be hunting for in Pokemon XY or ORAS. Go to the location where the Pokemon can be fished at and stand in the location where you will be fishing, either on land or on your surfing Pokemon. Once you are at your fishing location, go into your bag. If the Pcalc GUI is not present, press `Select` + `D-pad Up` to bring up the Pcalc GUI.
 
-![]()
+![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/4.jpg)
 
 ### Step 2: Choosing Your Target TinyMT Index in Tiny Finder.
 
@@ -41,13 +41,13 @@ After connecting your 3DS to Tiny Finder, select the game in the Game dropdown a
 
 Once you have selected the Index you are after, carefully advance your target index forward until your target index reaches 0. Be sure to press `Update` to update Tiny Finder after each index advancement.
 
-![]()
+![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/4.jpg)
 
 ### Step 3: Finding Your Shiny Frame in 3DS RNG Tool.
 
 In your game, press `A` to select the rod you will be using and pause the game by pressing `Start` and `Select` once you have selected a rod.
 
-![]()
+[![]()](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/1.png)
 
 When you have paused your game, open up 3DS RNG tool. In 3DS RNG Tool, select the Wild RNG tab and change the Category dropdown to `Fishing` in the Wild Encounter Setting section. Select the rod you are using in the Pokemon dropdown. If you are using Synchronize, select the nature you are synchronizing in the Sync Nature dropdown. If you are using Suction Cups, select `Suction Cups | Sticky Hold` in the Lead dropdown. If the Pokemon you are having has a gender ratio other than 1:1, select the correct ratio in the Gender Ratio dropdown. For redundancy, select the location where you are hunting and your target Pokemon in the Location and Slots dropdowns.
 
@@ -55,17 +55,16 @@ In the Filters section, if you are looking for Pokemon with specific IV's, input
 
 In the RNG Info section, input your current frame that you paused on in the box under "Frame Range". Next to Consider Delay, type in the delay of your index from Tiny Finder to into the box. If you do not type in the correct delay, you will not land on the frame that you are targeting.
 
-![]()
-![]()
+![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/2.png)
+![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/3.png)
 
 Once you have filled in all of the information into 3DS RNG Tool, press Calculate and pick out a frame that you are going to target.
-![]()
 
 ### Step 4: Advancing to Your Target Frame.
 
 In your game, press `Start` or **TAP** the `A` button to resume the game. Once you are close to your target frame, pause the game again by pressing `Start` + `Select`. Press `Select` to go frame by frame until you reach your target frame. Be sure you have the rod you are using selected and the cursor selecting the `USE` button.
 
-![]()
+![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/5.png)
 
 ### Step 5: Encounter.
 
@@ -73,13 +72,13 @@ Once you have reached your target frame, **PRESS AND HOLD** the `A` button to re
 
 Press the `A` button immediately when your fishing line gets a bite to reel in the line. If you don't reel in the line immediately, you may not hit the frame you are targeting. The sooner the better.
 
-![]()
+![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/6.png)
 
 ### Step 6: Profit.
 
 If everything is done right, you will have hit your target frame.
 
-![]()
+![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/7.png)
 
 # Personal Experiences
 
