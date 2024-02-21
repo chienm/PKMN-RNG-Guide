@@ -33,13 +33,13 @@ Before you start fishing, here are some tips that should be considered to make y
 
 Choose a Pokemon that you will be hunting for in Pokemon XY or ORAS. Go to the location where the Pokemon can be fished at and stand in the location where you will be fishing, either on land or on your surfing Pokemon. Once you are at your fishing location, go into your bag. If the Pcalc GUI is not present, press `Select` + `D-pad Up` to bring up the Pcalc GUI.
 
-It is wise to have a chain of 2 or 3 by fishing and KO Pokemon to prevent delay issues if you are going for shiny Pokemon.
-
 ![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/4a.jpg)
+
+It is wise to have a chain of 2 or 3 by fishing and KO Pokemon to prevent delay issues if you are going for shiny Pokemon.
 
 ### Step 2: Choosing Your Target TinyMT Index in Tiny Finder.
 
-After connecting your 3DS 3DS RNG Tool first, connect your 3DS to Tiny Finder. Select your game in the Game dropdown and select `Fishing` in the Method dropdown. Select the location you are hunting in the Location dropdown and the rod that will be used in the dropdown next to the Location dropdown. If you are using Citra emulator, check the Citra box. If you are looking for a specific Pokemon, select the Pokemon in the Species dropdown. If you are using Suction Cups, change the number in the Ratio box to `98`. If you are using Synchronize to synchronize the Pokemon's nature, check the Sync button. In the number box for Party, type in the number of Pokemon currently in your party. Once your desired preferences have been set, press the `Update` button.
+After connecting your 3DS to 3DS RNG Tool first, connect your 3DS to Tiny Finder. Select your game in the Game dropdown and select `Fishing` in the Method dropdown. Select the location you are hunting in the Location dropdown and the rod that will be used in the dropdown next to the Location dropdown. If you are using Citra emulator, check the Citra box. If you are looking for a specific Pokemon, select the Pokemon in the Species dropdown. If you are using Suction Cups, change the number in the Ratio box to `98`. If you are using Synchronize to synchronize the Pokemon's nature, check the Sync button. In the number box for Party, type in the number of Pokemon currently in your party. Once your desired preferences have been set, press the `Update` button.
 
 Once you have selected the Index you are after, carefully advance your target index forward until your target index reaches 0. Be sure to press `Update` to update Tiny Finder after each index advancement.
 
