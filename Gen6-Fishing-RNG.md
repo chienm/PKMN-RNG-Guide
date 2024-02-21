@@ -27,7 +27,7 @@ This guide will teach you how to RNG fishing in Pokemon XY and ORAS. For this gu
 
 Before you start fishing, here are some tips that should be considered to make your hunt easier.
 * For those shiny hunting, having a Shiny Charm will help getting more shiny frames.
-* To increase the possible TinyMT index when finding the index of the Pokemon you are looking for, have a Pokemon with the ability Suction Cups in the front of your party. This is not possible if you are planning to Synchronize the Pokemon's nature.
+* To increase the possible TinyMT index when finding the index of the Pokemon you are looking for, have a Pokemon with the ability Suction Cups or Sticky Hold in the front of your party. This is not possible if you are planning to Synchronize the Pokemon's nature.
 # Steps
 ### Step 1: Setting Up.
 
