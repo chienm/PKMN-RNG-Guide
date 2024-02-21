@@ -37,7 +37,7 @@ Choose a Pokemon that you will be hunting for in Pokemon XY or ORAS. Go to the l
 
 ### Step 2: Choosing Your Target TinyMT Index in Tiny Finder.
 
-After connecting your 3DS to Tiny Finder, select your game in the Game dropdown and select `Fishing` in the Method dropdown. Select the location you are hunting in the Location dropdown and the rod that will be used in the dropdown next to the Location dropdown. If you are using Citra emulator, check the Citra box. If you are looking for a specific Pokemon, select the Pokemon in the Species dropdown. If you are using Suction Cups, change the number in the Ratio box to `98`. If you are using Synchronize to synchronize the Pokemon's nature, check the Sync button. Once your desired preferences have been set, press the `Update` button.
+After connecting your 3DS to Tiny Finder, select your game in the Game dropdown and select `Fishing` in the Method dropdown. Select the location you are hunting in the Location dropdown and the rod that will be used in the dropdown next to the Location dropdown. If you are using Citra emulator, check the Citra box. If you are looking for a specific Pokemon, select the Pokemon in the Species dropdown. If you are using Suction Cups, change the number in the Ratio box to `98`. If you are using Synchronize to synchronize the Pokemon's nature, check the Sync button. In the number box for Party, type in the number of Pokemon currently in your party. Once your desired preferences have been set, press the `Update` button.
 
 Once you have selected the Index you are after, carefully advance your target index forward until your target index reaches 0. Be sure to press `Update` to update Tiny Finder after each index advancement.
 
