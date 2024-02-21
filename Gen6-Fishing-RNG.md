@@ -71,7 +71,7 @@ In your game, press `Start` or **TAP** the `A` button to resume the game. Once y
 
 Once you have reached your target frame, **PRESS AND HOLD** the `A` button to resume the game **AND** use the rod. Taping the `A` button will only resume the game in generation 6 Pcalc. Wait until you get a bite.
 
-Press the `A` button immediately when your fishing line gets a bite to reel in the line. If you don't reel in the line immediately, you may not hit the frame you are targeting. The sooner the better.
+Press the `A` button immediately (and I do mean immediately) when your fishing line gets a bite to reel in the line. If you don't reel in the line immediately, you may not hit the frame you are targeting. The sooner the better.
 
 ![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/6.png)
 
