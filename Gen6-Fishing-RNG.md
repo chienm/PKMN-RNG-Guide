@@ -84,6 +84,7 @@ If everything is done right, you will have hit your target frame.
 ![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/7.png)
 
 # Bambo-Rambo Tips
+* "DexNav fishing is only possible with the Search function which, currently is not supported by public tools. Pure fishing is the way to go here"
 * "Building a small chain beforehand (2-3 KOs) solves the delay issue if going for shinies"
 
 # Personal Experiences
