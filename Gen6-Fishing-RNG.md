@@ -41,13 +41,13 @@ After connecting your 3DS to Tiny Finder, select the game in the Game dropdown a
 
 Once you have selected the Index you are after, carefully advance your target index forward until your target index reaches 0. Be sure to press `Update` to update Tiny Finder after each index advancement.
 
-![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/1.jpg)
+![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/1.png)
 
 ### Step 3: Finding Your Shiny Frame in 3DS RNG Tool.
 
 In your game, press `A` to select the rod you will be using and pause the game by pressing `Start` and `Select` once you have selected a rod.
 
-[![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/4.png)
+![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/4.jpg)
 
 When you have paused your game, open up 3DS RNG tool. In 3DS RNG Tool, select the Wild RNG tab and change the Category dropdown to `Fishing` in the Wild Encounter Setting section. Select the rod you are using in the Pokemon dropdown. If you are using Synchronize, select the nature you are synchronizing in the Sync Nature dropdown. If you are using Suction Cups, select `Suction Cups | Sticky Hold` in the Lead dropdown. If the Pokemon you are having has a gender ratio other than 1:1, select the correct ratio in the Gender Ratio dropdown. For redundancy, select the location where you are hunting and your target Pokemon in the Location and Slots dropdowns.
 
