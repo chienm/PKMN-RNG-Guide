@@ -7,7 +7,7 @@
 
 ### Quick Note
 
-Even though it is possible to RNG fishing in generation 6 Pokemon games, I would highly recommend using the DexNav if you are planning to hunt in Pokemon ORAS if the Pokemon be obtained using surf first. This does not apply to Pokemon that can only be fished. For information on how to RNG DexNav in Pokemon ORAS, I would recommend reading Bambo-Rambo's DexNav RNG guide [here](https://github.com/Bambo-Rambo/RNG-Guides/blob/main/DexNavRNG.md#dexnav-rng-abuse-guide).
+Even though it is possible to RNG fishing in generation 6 Pokemon games, I would highly recommend using the DexNav if you are planning to hunt in Pokemon ORAS if the Pokemon be obtained using surf first. This does not apply to Pokemon that can only be fished. For information on how to RNG DexNav in Pokemon ORAS, I would recommend reading Bambo-Rambo's DexNav RNG guide [here](https://github.com/Bambo-Rambo/RNG-Guides/blob/main/DexNavRNG.md#dexnav-rng-abuse-guide). Alternatively, I would also suggest doing Egg RNG.
 
 In generation 6, along with the seed of a given frame, a secondary set of seeds, called TinyMT, is used to determine some parts of a Pokemon when encountering a Pokemon, including the species, level, and held item. This guide is for those who understand how to RNG in Pokemon XY and ORAS, and have a basic understanding of TinyMT, how to advance TinyMT frames, and how to use Tiny Finder and 3DS RNG Tool. For a more in-depth explanation, I would recommend reading Bambo-Rambo's RNG guide that goes more into depth [here](https://github.com/Bambo-Rambo/RNG-Guides/blob/main/NormalWild-FS-RNG.md).  For a quick run-through, the following is a reminder of the different ways of advancing TinyMT frames.
 
