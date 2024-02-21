@@ -31,7 +31,7 @@ Before you start fishing, here are some tips that should be considered to make y
 # Steps
 ### Step 1: Setting Up.
 
-Choose a Pokemon that you will be hunting for in Pokemon XY or ORAS. Go to the location where the Pokemon can be fished at and stand in the location where you will be fishing, either on land or on your surfing Pokemon. Once you are at your fishing location, go into your bag. If the Pcalc GUI is not present, press `Select` + `D-pad Up` to bring up the Pcalc GUI.
+Choose a Pokemon that you will be hunting for in Pokemon XY or ORAS. Go to the location where the Pokemon can be fished at and stand in the location where you will be fishing, either on land or on your surfing Pokemon. Once you are at your fishing location, go into your bag. If the Pcalc GUI is not present, press `Start` + `D-pad Up` to bring up the Pcalc GUI.
 
 ![](https://github.com/chienm/PKMN-RNG-Guide/blob/main/Images/Images/4a.jpg)
 
