@@ -1,6 +1,6 @@
 # Pokemon Generation 6 Fishing RNG for Pokemon XY and ORAS
 
-### Tools needed:
+### Tools needed
 * [3DS RNG Tool](https://ci.appveyor.com/project/Bambo-Rambo/3dsrngtool/build/artifacts) (Latest Version)
 * [Tiny Finder](https://ci.appveyor.com/project/Bambo-Rambo/tinyfinder/build/artifacts) (Latest Version)
 * [Pcalc G6](https://gbatemp.net/threads/pokecalcntr-for-gen-6-the-rng-tool-suite-for-the-3ds.473221/) (Old and New 3DS, 3DS XL, 2DS, and 2DS) or [CitraRNG](https://github.com/Admiral-Fish/CitraRNG/releases) (3DS Emulator)
